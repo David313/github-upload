@@ -1,1 +1,1 @@
-# githu-upload
+# github-upload
